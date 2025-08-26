@@ -1,3 +1,8 @@
+# html lists lab
+ In this lab i have practiced using the <ol> <ul> and <li> tags to create a simple lists of recipes
+ 1. using the <ul> tags we have created a nested list i.e (a list within a list)
+ 2. using the <ol> tags i created an ordered list of a set of instructions 
+ 
 # HTML Lists
 
 ## Learning Goals
